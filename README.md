@@ -1,4 +1,4 @@
-# Recreational Activities Trends across Worldhem
+# Recreational Activities Trends across World
 
 This project is a powerful web application that helps the user compare you to others on many fronts in terms of recreation activities followed by people around the world. Recreation is part of any human life. All human beings need some break from their hectic schedule to spend time on activities they enjoy like music, sports, dance, watching television etc. This boost their energy multifold. 
 
@@ -10,12 +10,11 @@ and designing meaningful queries.
 
 Some of the recreational activities we analyzed are as, we included:
 
-•	Sports, Extreme Sports
-•	Travel, Trips, Adventure, Theme Parks, National Parks
-•	Watching, Listen, Eating activities
-•	Dancing, Yoga, Gym ,Relaxation activities
-•	Hobbies such as poetry, collection, DIY etc. 
-
+- Sports, Extreme Sports
+- Travel, Trips, Adventure, Theme Parks, National Parks
+- Watching, Listen, Eating activities
+- Dancing, Yoga, Gym ,Relaxation activities
+- Hobbies such as poetry, collection, DIY etc. 
 
 We particularly designed queries to analyze what all countries people involves in recreational activities and in turn revealing their work life balance. Also what all are the most popular activities, what king of age group they belong to, popular trending hashtags are part of this project.
 
@@ -23,7 +22,7 @@ We particularly designed queries to analyze what all countries people involves i
 
 Following is the software architecture for the project.
 
-[Architecture](https://github.com/bhandari-nitin/Analysing-Twitter-Tweets/blob/master/documentation/architecture.jpg)
+![Architecture](https://github.com/bhandari-nitin/Analysing-Twitter-Tweets/blob/master/documentation/architecture.jpg)
 
 
 ## Requirements
@@ -149,7 +148,7 @@ For query 3, a public API “UClassify” is used in which tweet text is fed to 
 
 ## Report : 
 
-https://github.com/rashmitripathi/TwitterTrendAnalysis_BigData/blob/master/documentation/Phase%203/PB-Team%2018%20Phase%203.pdf
+[Project Report](https://github.com/bhandari-nitin/Analysing-Twitter-Tweets/blob/master/documentation/Phase%203/Phase%203/PB-Team%2018%20Phase%203.pdf)
 
 ## Ackwnowlegements
 
